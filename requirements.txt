@@ -1,0 +1,7 @@
+streamlit
+scanpy
+anndata
+seaborn
+matplotlib
+pandas
+numpy
